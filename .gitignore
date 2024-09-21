@@ -1,2 +1,6 @@
 # ignore env folder
 env/
+
+
+# ignore file 
+archive.zip
